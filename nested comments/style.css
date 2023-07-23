@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+body{
+    background-color: blanchedalmond;
+}
+
+.main-container{
+    padding: 1rem 3rem;
+}
+
+.comment-section{
+    margin: 2rem;
+    border-left: 2px solid;
+}
+
+.comment-card{
+   padding: 1rem;
+}
+
+.comment{
+    margin-left: 5rem;
+}
+
+.reply{
+    margin: 1rem 0 0 1rem;
+    color: green;
+    font-size: 1rem;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.reply:hover{
+    cursor: pointer;
+}
