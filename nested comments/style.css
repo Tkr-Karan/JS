@@ -35,3 +35,7 @@ body{
 .reply:hover{
     cursor: pointer;
 }
+
+.comment-card:not(:first-child){
+    margin-left: 4rem;
+}
